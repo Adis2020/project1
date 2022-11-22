@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: center;
+    height: 88px;
+}
+
+.headerElems {
+    display: flex;
+    gap: 155px;
+    border-bottom: solid black;
+
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: #828282;
+}
