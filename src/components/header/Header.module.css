@@ -7,7 +7,7 @@
 .headerElems {
     display: flex;
     gap: 155px;
-    border-bottom: solid black;
+    border-bottom: solid #828282;
 
     font-size: 18px;
     font-family: 'Poppins', sans-serif;
